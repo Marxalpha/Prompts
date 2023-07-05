@@ -1,4 +1,4 @@
-import Feed from 'Components/Feed.jsx'
+import Feed from 'components/Feed.jsx'
 const Home = () => {
   return (
     <section className="w-full flex-col">
